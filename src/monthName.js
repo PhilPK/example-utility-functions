@@ -12,7 +12,7 @@ const months = [
   'november',
   'december'
 ];
-
+Add month
 const monthName = (place) => (
   months[place]
     ? months[place]
